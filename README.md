@@ -5,4 +5,7 @@
 
 ## Personal Website -
 [Personal Website](https://abhyuday-tripathi.github.io)
-[Personal Website](https://abhyuday-tripathi.github.io)
+
+## Get in touch!
+
+[Mail](mailto:tripathi.abhyuday2010@gmail.com)
