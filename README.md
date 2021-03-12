@@ -4,4 +4,4 @@
   - Main focus on JavaScript, HTML, SCSS
 
 ## Persnol Website -
-[Persnol Website](https://support.west-wind.com)
+[Persnol Website](https://abhyuday.tripathi.github.io)
